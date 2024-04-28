@@ -7,6 +7,7 @@ This repository contains the implementation of an autonomous navigation system f
 - world_task1.xml : the Gazebo world file designed for task 1
 - task2.py : Visual SLAM Implementation
 - world_task2.xml : the Gazebo world file designed for task 2
+
 To run my code, you can simply create new world files (using the xml files) and launch files in Gazebo. Open the world and the corresponding Python file in separate consoles.
 
 ## Introduction

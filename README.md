@@ -19,7 +19,7 @@ The assignment was divided into three main tasks:
 ## Challenges
 I encountered two main challenges during this assignment:
 
-- **Mapping the Robot's Movement**: I defined three basic actions for the robot: move forward, turn left, and turn right. Each action had a specific movement and moving time. After each action, I updated the grid world based on the robot's movement.
+- **Mapping the Robot's Movement**: One of the challenges was mapping the movement of the robot in the world environment and the grid world (created for A* path planning and VSLAM). To overcome this challenge, I defined three basic actions for the robot: move forward, turn left, and turn right. Each action had a specific movement and moving time. After each action, I updated the grid world based on the robot's movement.
 - **Unstable Behavior of Gazebo**: The instability of Gazebo when running on different hardware/operating systems was a challenge. I defined the robot's action based on movement and moving time. Optimal values for moving parameters were obtained through practical experiments.
 
 ## Results and Observations

@@ -2,6 +2,15 @@
 
 This repository contains the implementation of an autonomous navigation system for a TurtleBot3 Waffle Pi. The system was developed as part of Assignment 4 for a Robotics course and includes features such as A* path planning and Simultaneous Localization and Mapping (SLAM).
 
+## DEMO:
+Task 1: A* Path Planning on Customized Gazebo World
+
+[![Task 1 demo](https://img.youtube.com/vi/5YE4FpRSzvI/0.jpg)](https://www.youtube.com/watch?v=5YE4FpRSzvI)
+
+Task 2: Visual SLAM Implementation
+
+[![Task 2 demo](https://img.youtube.com/vi/3NkE184_CD8/0.jpg)](https://www.youtube.com/watch?v=3NkE184_CD8)
+
 ## Files:
 - task1.py : A* Path Planning on Customized Gazebo World
 - world_task1.xml : the Gazebo world file designed for task 1
